@@ -1,0 +1,17 @@
+//Another New super mario bros. Ds made by: Bobbyloo2018 C++
+default
+#incude <iostream>
+Loading()
+{
+std::cout << "Loading...";
+}
+//Mario
+
+
+#True or False?
+     #True>>return
+         #False>>static_cast
+//Download and patch with https://romsmania.cc/roms/nintendo-ds/0434-new-super-mario-bros-psyfer-233974
+//Have Fun
+
+**template
